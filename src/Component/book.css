@@ -1,0 +1,16 @@
+select {
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    padding: 3px;
+    display: block;
+    margin: 30px
+    
+}
+span {
+    font-weight: bold;
+    margin: 30px;
+}
+
+p{
+    font-weight: bold;
+}
